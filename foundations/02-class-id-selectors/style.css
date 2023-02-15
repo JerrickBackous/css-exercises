@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font: "Vardana", "DejaVu Sans", "sans-serif";
+    }
+
+.one_id {
+          color: blue;
+          font-size: 36px;
+          }
+
+.another_id {
+              background-color: light green;
+              font-size: 24px;
+              font-weight: bold;
+              }
+              
+#cooler {
+          font-size: 24;
+          }
